@@ -1,4 +1,3 @@
-# Task_2
 ## Generate Invitations for friends within 100 kms. of my location.
 
 Requirements:
