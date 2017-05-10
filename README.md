@@ -1,4 +1,4 @@
-## Generate Invitations for friends within 100 kms. of my location.
+## Generate Invitations for friends within 100 kms. of "MY" location.
 
 Requirements:
 <br>------------------
